@@ -39,6 +39,6 @@ I build production AI systems for enterprise — five years turning real busines
 
 ### 📬 Reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aroosashakeelkhan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aroosashakeel)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:aroosa.shakeelkhan@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0E8C6A?style=flat&logo=github&logoColor=white)](https://aroosashakeelkhan.github.io)
