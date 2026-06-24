@@ -20,7 +20,7 @@ I build production AI systems for enterprise — five years turning real busines
 
 ### 🏗️ Selected projects
 
-- **Grosvenor GPT** — enterprise GPT assistant serving employee knowledge queries via Teams
+- **Company's GPT** — enterprise GPT assistant serving employee knowledge queries via Teams
 - **NEON (Who's Who)** — organisational intelligence chatbot built on RAG + SharePoint
 - **Invoice Automation Pipeline** — OCR + LLM extraction reducing manual finance processing
 - **HR Email Auto-Responder** — NLP-powered email triage and draft generation for HR teams
